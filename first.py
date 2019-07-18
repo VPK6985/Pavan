@@ -1,6 +1,6 @@
 n=int(input(""))
 if n<0:
-      print("negative")
+      print("Negative")
 elif(n==0):
     print("Zero")
 else:
